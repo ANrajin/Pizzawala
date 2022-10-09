@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWala.Api", "PizzaWala.Api\PizzaWala.Api.csproj", "{C5C74913-A54F-4BD2-A267-356343242FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWala.Application", "PizzaWala.Application\PizzaWala.Application.csproj", "{9A4CC324-D0D9-4FBD-B109-54B9C06BA54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWala.Contracts", "PizzaWala.Contracts\PizzaWala.Contracts.csproj", "{751FA01F-81B9-4CA6-B5C1-AE3EF4F217AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWala.Domain", "PizzaWala.Domain\PizzaWala.Domain.csproj", "{C29290CB-2696-40BF-8CEC-AEFE49E487F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaWala.Infrastructure", "PizzaWala.Infrastructure\PizzaWala.Infrastructure.csproj", "{64486F7B-7E58-4C04-BF8D-833C432791BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C74913-A54F-4BD2-A267-356343242FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C74913-A54F-4BD2-A267-356343242FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C74913-A54F-4BD2-A267-356343242FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C74913-A54F-4BD2-A267-356343242FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4CC324-D0D9-4FBD-B109-54B9C06BA54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4CC324-D0D9-4FBD-B109-54B9C06BA54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4CC324-D0D9-4FBD-B109-54B9C06BA54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4CC324-D0D9-4FBD-B109-54B9C06BA54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751FA01F-81B9-4CA6-B5C1-AE3EF4F217AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751FA01F-81B9-4CA6-B5C1-AE3EF4F217AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751FA01F-81B9-4CA6-B5C1-AE3EF4F217AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751FA01F-81B9-4CA6-B5C1-AE3EF4F217AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29290CB-2696-40BF-8CEC-AEFE49E487F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29290CB-2696-40BF-8CEC-AEFE49E487F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29290CB-2696-40BF-8CEC-AEFE49E487F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29290CB-2696-40BF-8CEC-AEFE49E487F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64486F7B-7E58-4C04-BF8D-833C432791BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64486F7B-7E58-4C04-BF8D-833C432791BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64486F7B-7E58-4C04-BF8D-833C432791BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64486F7B-7E58-4C04-BF8D-833C432791BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
